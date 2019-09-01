@@ -1,11 +1,9 @@
 This is my VIBGYOR file. It contains colors auch as 
+
 Violet
 indigo
 blue
-green
-yello
-orange 
-red 
-unicorn
-
-
+Green
+Yellow
+Orange 
+Red 
