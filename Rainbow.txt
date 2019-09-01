@@ -1,9 +1,11 @@
-This is my VIBGYOR file. It contains colors auch as 
+This is my VIBGYOR file. It contains colors such as 
 
 Violet
-indigo
-blue
+Indigo
+Blue
 Green
 Yellow
 Orange 
-Red 
+Red
+
+Tap left , Tap right , Tap up and down and enjoy rain with the rainbow dance. 
